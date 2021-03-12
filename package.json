@@ -30,7 +30,7 @@
     "typescript-transform-paths": "^2.2.3"
   },
   "main": "dist/index.js",
-  "name": "analytics",
+  "name": "performance",
   "scripts": {
     "postinstall": "husky install",
     "start": "jest --watchAll",
